@@ -1,5 +1,11 @@
 # NEXUS STORE — Full-Stack Digital Gaming Marketplace
 
+## 📸 Screenshots
+
+![Storefront Home](public/screenshots/home.png)
+![Customer Dashboard](public/screenshots/dashboard.png)
+![Admin Gate](public/screenshots/admin.png)
+
 A modern, full-stack digital gaming e-commerce platform built with **Next.js (App Router)**, **TypeScript**, **Tailwind CSS**, and **Supabase**. Designed with a sleek dark gaming UI, featuring real-time database integration, customer authentication with a personal Digital Vault, and a server-protected Admin Control Center.
 
 🔗 **Live Demo:** [https://nexus-store-beige-mu.vercel.app](https://nexus-store-beige-mu.vercel.app)
